@@ -1,26 +1,140 @@
 /* body {
   background-color: lightgreen;
 } */
+.logo {
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 90px;
+}
 .about_us {
-  font-weight: bold;
-  font-size: 70px;
+  margin-top: 20px;
+  font-weight: bolder;
+  font-size: 50px;
   text-align: center;
+}
+.vision {
+  font-size: 22px;
+  margin-left: 100px;
+  font-weight: bold;
 }
 .section {
   background-color: lightgreen;
   margin-left: 50px;
 }
 .text {
-  margin-left: 30px;
-  margin-top: 40px;
+  margin-left: 100px;
+  /* margin-top: 40px; */
 }
 .waste {
-  height: 190px;
-  width: 190px;
-  margin-left: 550px;
+  height: 250px;
+  width: 250px;
+  margin-left: 350px;
+}
+.approach {
+  margin-top: 150px;
+  margin-left: 50px;
+  height: 350px;
+  width: 450px;
 }
 .about {
-  /* background-color: lightgray; */
-  margin-left: 140px;
+  margin-left: 290px;
+  margin-top: 150px;
+}
+.vision2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.paragraph {
+  margin-left: 20px;
+}
+
+.inner_text {
+  margin-top: 15px;
+  margin-left: 30px;
+  font-weight: bold;
+}
+.inner_text2 {
+  margin-left: 30px;
+}
+.benefits_img {
   margin-top: 50px;
+  margin-left: 170px;
+}
+.recycling {
+  margin-top: 100px;
+  margin-left: 70px;
+  height: 250px;
+  width: 300px;
+}
+.arrow {
+  margin-top: 200px;
+  margin-left: 50px;
+  height: 50px;
+  width: 70px;
+}
+.arrow2 {
+  height: 90px;
+  width: 90px;
+  margin-top: 30px;
+  margin-left: 1170px;
+}
+/* .recycling2 {
+  margin-left: 1080px;
+  margin-top: 50px;
+  height: 250px;
+  width: 300px;
+} */
+.process {
+  margin-left: 200px;
+}
+.recycle {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.vision3 {
+  margin-left: 200px;
+  font-size: 22px;
+  font-weight: bold;
+}
+.arrow3 {
+  height: 70px;
+  width: 120px;
+  margin-top: 100px;
+  margin-left: 270px;
+}
+.recycling3 {
+  height: 250px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 70px;
+}
+.recycling4 {
+  height: 250px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+.footer {
+  background-color: black;
+  color: white;
+}
+.service {
+  font-weight: bold;
+  padding-top: 20px;
+  margin-left: 50px;
+}
+.support {
+  margin-left: 50px;
+  cursor: pointer;
+}
+.service2 {
+  font-weight: bold;
+  padding-top: 20px;
+  margin-left: 350px;
+}
+.support2 {
+  margin-left: 350px;
+  cursor: pointer;
 }
